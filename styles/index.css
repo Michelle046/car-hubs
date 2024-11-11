@@ -1,0 +1,20 @@
+.one{
+    width: 50%;
+    height: 30vh;
+    margin: auto;
+    background-color: rgb(47, 211, 135);
+}
+.two{
+    width: 50%;
+    height: 30vh;
+    margin: auto;
+    background-color:rgb(107, 199, 253);
+}
+.main{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin: 2rem;
+    
+}
